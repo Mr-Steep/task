@@ -1,0 +1,51 @@
+#task24:first-child{
+    margin-top:20px;
+}
+#task24{
+    /*     width:80%; */
+    margin-left:30px;
+}
+
+
+
+.pagination{
+    margin-left:30px;
+}
+
+#li2{
+    margin-left:10%;
+}
+
+#li3{
+    white-space:  nowrap;
+    margin-left:30%;
+}
+
+#li4{
+    white-space:  nowrap;
+    margin-left:50%;
+}
+#li4 label{
+    margin-left:30px;
+    color: #FFF;
+}
+
+#performance{
+    margin-top:55px;
+}
+.task-bottom textarea{
+    background-color: transparent;
+    border: 0;
+    width:130%;
+}
+.task-bottom{
+    margin-left:30px;
+    font-size:14px;
+}
+.sort_data{
+    margin-left:30px;
+}
+
+.cbalink{
+    display:none;
+}
